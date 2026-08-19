@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.claude/
+assessment/
+reference/
+qa/
+archive/
+courseware/build/
+courseware/assets/
+courseware/slide_map.json
+*.zip
+*.tmp
+~$*

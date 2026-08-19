@@ -1,0 +1,7 @@
+Date,Shift,Product,Minutes_After_Changeover,Surface_Mark,Tool_Life_Parts,Coolant_Concentration_Pct,Operator
+2026-08-01,A,P104,12,1,680,5.1,OP1
+2026-08-01,B,P104,95,0,720,5.0,OP2
+2026-08-02,A,P104,18,1,705,4.8,OP3
+2026-08-02,B,P104,110,0,750,5.2,OP1
+2026-08-03,A,P104,9,1,690,4.7,OP2
+2026-08-03,B,P104,88,0,730,5.1,OP3

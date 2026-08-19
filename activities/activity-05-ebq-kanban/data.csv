@@ -1,0 +1,9 @@
+Parameter,Base_Value,Unit
+Annual demand D,12000,units/year
+Setup cost S,80,SGD/setup
+Holding cost H,3,SGD/unit-year
+Production rate P,30000,units/year
+Daily demand,500,units/day
+Replenishment lead time,2,days
+Safety factor,0.10,ratio
+Container quantity,50,units

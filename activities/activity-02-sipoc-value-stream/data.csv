@@ -1,0 +1,6 @@
+Step,Process_Time_Min,Wait_Time_Min,WIP,First_Pass_Yield
+Order review,12,180,8,0.98
+Kitting,18,95,14,0.96
+Assembly,35,60,10,0.93
+Inspection,14,220,22,0.89
+Release,8,75,7,0.99

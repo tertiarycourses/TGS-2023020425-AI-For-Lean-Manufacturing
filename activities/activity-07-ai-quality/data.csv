@@ -1,0 +1,13 @@
+Part_ID,Actual_Critical_Defect,AI_Flag,Confidence,Human_Disposition
+A001,0,0,0.08,Accept
+A002,1,1,0.96,Reject
+A003,0,1,0.74,Accept
+A004,1,0,0.42,Reject
+A005,0,0,0.11,Accept
+A006,1,1,0.91,Reject
+A007,0,0,0.19,Accept
+A008,0,1,0.69,Accept
+A009,1,1,0.88,Reject
+A010,0,0,0.06,Accept
+A011,1,0,0.47,Reject
+A012,0,0,0.09,Accept

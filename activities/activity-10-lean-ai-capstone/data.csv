@@ -1,0 +1,4 @@
+Option,Baseline_Loss_SGD_Year,Data_Readiness_1_5,Risk_1_5,Implementation_Effort_1_5,Time_to_Learn_Weeks
+Inspection queue,180000,4,4,3,8
+CNC downtime,240000,3,5,4,12
+Material replenishment,120000,5,2,2,6

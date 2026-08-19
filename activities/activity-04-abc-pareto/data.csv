@@ -1,0 +1,13 @@
+SKU,Description,Annual_Demand,Unit_Cost_SGD,Lead_Time_Days,Criticality
+P-104,Precision spindle,4000,18.00,30,High
+M-220,Servo motor,600,90.00,45,High
+V-031,Vision sensor,140,150.00,60,High
+S-410,Standard fastener,50000,0.20,7,Low
+B-118,Bearing set,1200,5.00,21,High
+G-204,Safety interlock seal,300,1.50,75,Critical
+C-515,Coolant filter,900,3.80,14,Medium
+L-611,Label stock,24000,0.08,5,Low
+T-700,Cutting tool insert,6500,1.25,28,High
+P-812,Packaging tray,8000,0.35,10,Low
+R-090,Reference gauge,12,420.00,90,Critical
+W-033,Wiping cloth,12000,0.04,3,Low

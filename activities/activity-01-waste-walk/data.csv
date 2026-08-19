@@ -1,0 +1,16 @@
+Timestamp,Process_Step,Waste_Observed,Delay_Minutes,Defect_Count,Operator_Note
+08:05,CNC-2,Waiting,12,0,Queue for gauge
+08:20,Inspection,Motion,8,0,Gauge not at point of use
+08:45,CNC-2,Defects,18,3,Burr dimension outside limit
+09:10,Packaging,Waiting,10,0,Label approval pending
+09:40,Inspection,Inventory,15,0,Twelve parts waiting
+10:05,CNC-2,Overprocessing,9,0,Duplicate manual entry
+10:30,Material Store,Transportation,11,0,Long route to cell
+11:00,CNC-2,Waiting,16,0,Tool change approval
+11:30,Inspection,Motion,7,0,Search for master sample
+13:15,CNC-2,Defects,20,4,Surface mark rework
+13:50,Packaging,Overproduction,14,0,Packed ahead of dispatch
+14:20,Inspection,Waiting,13,0,Inspector unavailable
+14:50,CNC-2,Non-utilised talent,6,0,Operator idea not reviewed
+15:10,Material Store,Inventory,17,0,Excess weekly batch
+15:45,CNC-2,Waiting,15,0,Programme clarification
